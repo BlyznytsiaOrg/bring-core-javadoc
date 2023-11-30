@@ -12,6 +12,8 @@ com.bobocode.bring.core.context.impl
 com.bobocode.bring.core.context.scaner
 com.bobocode.bring.core.context.scaner.impl
 com.bobocode.bring.core.context.type
+com.bobocode.bring.core.context.type.field
+com.bobocode.bring.core.context.type.parameter
 com.bobocode.bring.core.domain
 com.bobocode.bring.core.env
 com.bobocode.bring.core.env.impl
